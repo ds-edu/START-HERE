@@ -13,4 +13,4 @@ This repository is maintained by the Data Science Education Program at UC Berkel
 
 ## License
 
-The materials shared under this repository are under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). 
+The contents shared under this repository are licensed for reuse under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). 
